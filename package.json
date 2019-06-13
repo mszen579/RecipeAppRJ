@@ -2,7 +2,7 @@
   "name": "recipe-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mszsen579.github.io/RecipeAppRJ",
+  "homepage": "http://mszen579.github.io/RecipeAppRJ/",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "gh-pages": "^2.0.1",
